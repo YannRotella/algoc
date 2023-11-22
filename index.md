@@ -20,17 +20,16 @@ Cours & TD le mercredi de 13h50 à 17h50, salle G207 ou G203 Bâtiment Sophie Ge
    - Faire un programme qui calcule la factorielle d'un nombre rentré en argument dans le bash.
    - Faire un programme qui calcule la factorielle et dit si un nombre est premier, en séparant les fonctions dans des fichiers séparés (3).
    - Ajouter l'exponentiation rapide à factorielle, en améliorant votre programme qui pourrait utiliser le théorème de Fermat si le modulo est premier. On utilisera la fonction est_premier utilisée précédemment.
-   - Dans l'autre programme, rajouter une fonction qui calcule les coefficients binomiaux, en utilisant le programme factorielle de l'autre fichier. 
+   - Dans l'autre programme, rajouter une fonction qui calcule les coefficients binomiaux, en utilisant le programme factorielle de l'autre fichier. Mettez les includes nécessaires dans les .h.
    - Utiliser la technique ifndef define pour gérer les problèmes.
-   - Créez votre propore librairie (dynamique et statique) contenant l'exponentiation rapide modulaire.
-   - Vérifiez que vous arrivez à les utiliser.
+   - Installez la bibliothèque GMP et lancez un programme pour vérifier que vous arrivez à l'utiliser.
 
 
 #### 13 décembre 
 
 **Makefile, GMP et factorisations**
-   - Reprenez le travail précédent, avec une bibliothèque contenant l'exponentiation rapide, un fichier séparé contenant le programme qui vérifie si un nombre est premier et un fichier main séparé et créez le makefile qui vous permet de créer le fichier éxécutable.
-   - Installez GMP et vérifiez que vous pouvez l'utiliser.
+   - Reprenez l'exponentiation rapide et transformez le programme pour que cela fonctionne sur GMP. 
+   - Créez un makefile permettant de compiler votre programme avec la seule instruction make. 
    - Programmez la recherche de collisions sur Keccak en réutilisant le programme du début.
    - Programmez l'algorithme de Miller Rabin.
    - Programmez la méthode rho de pollard.
