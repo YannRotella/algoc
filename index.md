@@ -15,6 +15,7 @@ Cours & TD le mercredi de 13h50 à 17h50, salle G207 ou G203 Bâtiment Sophie Ge
 #### 6 décembre 
 
 **Compilation, fichiers séparés, librairies**
+   - [Document](tds/CompilationBasiqueC.pdf)
    - Lecture codes de Keccak en [python](tds/KeccakPython.py) et en [C](tds/KeccakC.c)
    - Comparer les temps d'éxécution pour environ 10 000 éxécutions de la permutation interne de Keccak. Expliquer.
    - Faire un programme qui calcule la factorielle d'un nombre rentré en argument dans le bash.
@@ -28,7 +29,7 @@ Cours & TD le mercredi de 13h50 à 17h50, salle G207 ou G203 Bâtiment Sophie Ge
 #### 13 décembre 
 
 **Makefile, GMP et factorisations**
-   - Reprenez l'exponentiation rapide et transformez le programme pour que cela fonctionne sur GMP. 
+   - Reprenez l'exponentiation rapide et transformez le programme pour que cela fonctionne sur GMP. Vérifiez avec la fonction de GMP.
    - Créez un makefile permettant de compiler votre programme avec la seule instruction make. 
    - Programmez la recherche de collisions sur Keccak en réutilisant le programme du début.
    - Programmez l'algorithme de Miller Rabin.
