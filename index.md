@@ -40,12 +40,7 @@ Cours & TD le mercredi de 13h50 à 17h50, salle G207 ou G203 Bâtiment Sophie Ge
 #### 20 décembre 
 
 **Git et méthodes de factorisation**
-   - Créez un compte Github et mettez vous en binôme/trinôme de projet.
-   - Initialisez un dépôt. 
-   - Mettez dans ce dépot un dossier contenant un fichier .bib et un fichier .tex avec des noms adaptés pour vos projets.
-   - Mettez dans ce dépot un autre dossier contenant un fichier fact.c contenant l'ensemble des fonctions liées à la factorisation et un fichier main.c ainsi qu'un fichier makefile.
-   - Faites en sorte que tout compile et produise un éxécutable.
-   - Faites ensuite à plusieurs, en faisant des add, commit, pull et push, les programmes suivants (vous pouvez séparer les tâches).
+
    - Programmez la méthode p-1
    - Programmez la méthode p+1
    - Comparer avec les entiers suivant:
@@ -53,6 +48,12 @@ Cours & TD le mercredi de 13h50 à 17h50, salle G207 ou G203 Bâtiment Sophie Ge
       - 2177241218019392284455749961185783753335013327591
       - 199214358783833785496649131630759414803916321139456200129431155042143170897974614023327
       - 6500836418678143176619908800773996927084289993776850414594757469264912497841920022968113
+   - Créez un compte Github et mettez vous en binôme/trinôme de projet.
+   - Initialisez un dépôt. 
+   - Mettez dans ce dépot un dossier contenant un fichier .bib et un fichier .tex avec des noms adaptés pour vos projets.
+   - Mettez dans ce dépot un autre dossier contenant un fichier fact.c contenant l'ensemble des fonctions liées à la factorisation et un fichier main.c ainsi qu'un fichier makefile.
+   - Faites en sorte que tout compile et produise un éxécutable.
+   - Faites ensuite à plusieurs, en faisant des add, commit, pull et push, les programmes suivants (vous pouvez séparer les tâches).
    - Programmez la méthode de Pohlig Hellman sur
       - 199214358783833785496649131630759414803916321139456200129431155042143170897974614023327
 
