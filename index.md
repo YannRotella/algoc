@@ -31,6 +31,7 @@ Cours & TD le mercredi de 13h50 à 17h50, salle G207 ou G203 Bâtiment Sophie Ge
 **Makefile, GMP et factorisations**
    - Reprenez l'exponentiation rapide et transformez le programme pour que cela fonctionne sur GMP. Vérifiez avec la fonction de GMP.
    - Créez un makefile permettant de compiler votre programme avec la seule instruction make. 
+   - Programmez la recherche de cycles sur la suite de Syracuse $u_0 = a$ et $u_{n+1} = \frac{u_n}{2}$ si $u_n$ est pair et $u_{n+1} = 3u_n + 1$ sinon.
    - Programmez la recherche de collisions sur Keccak en réutilisant le programme du début.
    - Programmez l'algorithme de Miller Rabin.
    - Programmez la méthode rho de pollard.
