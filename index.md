@@ -12,7 +12,7 @@ Cours & TD le mercredi de 13h50 à 17h50, salle G207 ou G203 Bâtiment Sophie Ge
 
 ## Calendrier des trois dernières séances
 
-#### 6 décembre 
+#### 4 décembre 
 
 **Compilation, fichiers séparés, librairies**
    - [Document](tds/CompilationBasiqueC.pdf)
@@ -26,7 +26,7 @@ Cours & TD le mercredi de 13h50 à 17h50, salle G207 ou G203 Bâtiment Sophie Ge
    - Installez la bibliothèque GMP et lancez un programme pour vérifier que vous arrivez à l'utiliser.
 
 
-#### 13 décembre 
+#### 9 décembre 
 
 **Makefile, GMP et factorisations**
    - Reprenez l'exponentiation rapide et transformez le programme pour que cela fonctionne sur GMP. Vérifiez avec la fonction de GMP.
@@ -37,7 +37,7 @@ Cours & TD le mercredi de 13h50 à 17h50, salle G207 ou G203 Bâtiment Sophie Ge
    - Programmez la méthode rho de pollard.
 
    
-#### 20 décembre 
+#### 18 décembre 
 
 **Git et méthodes de factorisation**
 
