@@ -12,7 +12,7 @@ Cours & TD le mercredi de 13h50 à 17h50, salle G207 ou G203 Bâtiment Sophie Ge
 
 ## Calendrier des trois dernières séances
 
-#### 4 décembre 
+#### 3 décembre 
 
 **Compilation, fichiers séparés, librairies**
    - [Document](tds/CompilationBasiqueC.pdf)
@@ -23,10 +23,12 @@ Cours & TD le mercredi de 13h50 à 17h50, salle G207 ou G203 Bâtiment Sophie Ge
    - Ajouter l'exponentiation rapide à factorielle, en améliorant votre programme qui pourrait utiliser le théorème de Fermat si le modulo est premier. On utilisera la fonction est_premier utilisée précédemment.
    - Dans l'autre programme, rajouter une fonction qui calcule les coefficients binomiaux, en utilisant le programme factorielle de l'autre fichier. Mettez les includes nécessaires dans les .h.
    - Utiliser la technique ifndef define pour gérer les problèmes.
+
+**Pour la prochaine séance**
    - Installez la bibliothèque GMP et lancez un programme pour vérifier que vous arrivez à l'utiliser.
 
 
-#### 9 décembre 
+#### 10 décembre 
 
 **Makefile, GMP et factorisations**
    - Reprenez l'exponentiation rapide et transformez le programme pour que cela fonctionne sur GMP. Vérifiez avec la fonction de GMP.
@@ -37,7 +39,7 @@ Cours & TD le mercredi de 13h50 à 17h50, salle G207 ou G203 Bâtiment Sophie Ge
    - Programmez la méthode rho de pollard.
 
    
-#### 18 décembre 
+#### 17 décembre 
 
 **Git et méthodes de factorisation**
 
